@@ -6,3 +6,6 @@
 *.db
 htmlcov/
 .coverage
+build/
+dist/
+ravenpy.egg-info/
